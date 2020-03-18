@@ -104,13 +104,13 @@ $ yarn add beautiful-react-hooks
 
 Współpraca jest bardzo mile widziana. 
 
-Przed dodaniem nowego hooka zapoznaj się koniecznie z zasadami projektowymi tutaj [CONTRIBUTING](./CONTRIBUTING.md)
+Przed dodaniem nowego hooka zapoznaj się koniecznie z zasadami projektowymi tutaj [CONTRIBUTING](../CONTRIBUTING.md)
 
 **Przed stworzeniem** nowego pull request, upewnij się, że:
 
-1. uaktualniłeś wersję pliku package.json oraz dodałeś zmiany w pliku [CHANGELOG](./CHANGELOG.md)
+1. uaktualniłeś wersję pliku package.json oraz dodałeś zmiany w pliku [CHANGELOG](../CHANGELOG.md)
 2. użyłeś komend `npm test` oraz `npm build`.
-3. dodałeś dokumentację do twojego nowego hooka (*możesz użyć szablon [HOOK_DOCUMENTATION_TEMPLATE](./HOOK_DOCUMENTATION_TEMPLATE.md)*).
+3. dodałeś dokumentację do twojego nowego hooka (*możesz użyć szablon [HOOK_DOCUMENTATION_TEMPLATE](../HOOK_DOCUMENTATION_TEMPLATE.md)*).
 4. uaktualniłeś plik `index.d.ts` dodając typy Typescript twojego hooka.
 
 ### Użyte narzędzia

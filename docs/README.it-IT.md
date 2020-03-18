@@ -104,13 +104,13 @@ $ yarn add beautiful-react-hooks
 
 La tua contribuzione è benvenuta!
 
-Per inviare il tuo custom hook, leggi le nostre [linee guida](./CONTRIBUTING.md) in materia di contribuzioni.
+Per inviare il tuo custom hook, leggi le nostre [linee guida](../CONTRIBUTING.md) in materia di contribuzioni.
 
 **Prima di inviarci** la tua pull request, per favore sii sicuro che:
 
-1. Hai aggiornato la versione nel file package.json ed hai aggiunto i cambiamenti che hai fatto nel file [CHANGELOG](./CHANGELOG.md).
+1. Hai aggiornato la versione nel file package.json ed hai aggiunto i cambiamenti che hai fatto nel file [CHANGELOG](../CHANGELOG.md).
 2. Hai fatto partire i testi con `npm test` ed hai fatto una build locale con `npm build`.
-3. Hai aggiunto la documentazione del tuo custom hook (*puoi partire dal template [HOOK_DOCUMENTATION_TEMPLATE](./HOOK_DOCUMENTATION_TEMPLATE.md), per scrivere la tua documentazione*).
+3. Hai aggiunto la documentazione del tuo custom hook (*puoi partire dal template [HOOK_DOCUMENTATION_TEMPLATE](../HOOK_DOCUMENTATION_TEMPLATE.md), per scrivere la tua documentazione*).
 4. Hai aggiornato il file `index.d.ts` aggiungendo i tipi Typescript del tuo hook.
 
 ### Tools utilizzati
