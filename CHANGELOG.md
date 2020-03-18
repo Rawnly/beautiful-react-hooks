@@ -462,4 +462,4 @@ online
 
 ### Fixed
 
-- Fixing links in Contributing section in language specific README files
+- Fixing links in Contributing section and minor typos in language specific README files
