@@ -109,7 +109,7 @@ Para presentar su custom hook, por favor asegúrese de leer nuestro[CONTRIBUTING
 
 **Antes de enviar** un nuevo merge request, por favor asegúrese:
 
-1. Ha actualizado el package.json version e informó de sus cambios en el [CHANGELOG] archivo (../CHANGELOG.md)
+1. Ha actualizado el package.json version e informó de sus cambios en el archivo [CHANGELOG](../CHANGELOG.md)
 2. Asegúrate de ejecutar `npm test` y `npm build` antes de enviar el merge request.
 3. Asegúrate de que has añadido la documentación de tu custom hook (* puedes usar el [HOOK_DOCUMENTATION_TEMPLATE](../HOOK_DOCUMENTATION_TEMPLATE.md)  para documentar tu custom hook*).
 4. Asegúrate de que has actualizado el  `index.d.ts` el archivo de tus tipo de hook.
